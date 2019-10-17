@@ -1,0 +1,1 @@
+Powershell.exe -executionpolicy remotesigned -WindowStyle Hidden -File  "./Set-DefaultPrinterButton.ps1"
